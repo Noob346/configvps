@@ -1,0 +1,2 @@
+# configvps
+configura vps automaticamente
